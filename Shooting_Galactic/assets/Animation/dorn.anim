@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dorn",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -133.899,
+            74.463,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -133.899,
+            20.308,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -133.899,
+            74.463,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

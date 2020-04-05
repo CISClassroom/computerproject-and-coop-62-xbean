@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "body",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "E1_L3": {
+        "props": {
+          "angle": []
+        }
+      },
+      "E1_L2": {
+        "props": {
+          "angle": []
+        }
+      },
+      "E1_R1": {
+        "props": {
+          "angle": []
+        }
+      },
+      "E1_R2": {
+        "props": {
+          "angle": []
+        }
+      }
+    }
+  },
+  "events": []
+}

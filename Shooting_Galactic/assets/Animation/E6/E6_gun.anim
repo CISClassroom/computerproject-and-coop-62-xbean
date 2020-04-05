@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "E6_gun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -494.209,
+            318.349,
+            0
+          ]
+        },
+        {
+          "frame": 0.5166666666666667,
+          "value": [
+            -414.277,
+            329.906,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
